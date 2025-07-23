@@ -63,9 +63,8 @@ body, html, #root {
   padding: 40px 20px;
 }
 
-/* Shared container styling */
 .container {
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(78, 7, 7, 0.05);
   backdrop-filter: blur(15px);
   border-radius: 20px;
   padding: 40px;
@@ -105,7 +104,7 @@ p {
   box-shadow: 0 6px 20px rgba(0, 255, 208, 0.7);
 }
 
-.logo{
+.logoImage{
   width: 100px;
   height:100px;
 }
