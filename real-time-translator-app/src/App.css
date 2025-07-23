@@ -104,3 +104,8 @@ p {
   transform: scale(1.05);
   box-shadow: 0 6px 20px rgba(0, 255, 208, 0.7);
 }
+
+.logo{
+  width: 100px;
+  height:100px;
+}
