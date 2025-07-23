@@ -4,37 +4,33 @@ import "./About.css";
 function About() {
   return (
     <div className="about-container">
-      <h1 className="about-title">
-        About LumiSub 
-      </h1>
+      <h1 className="about-title">About LumiSub</h1>
 
       <p className="about-paragraph highlight">
-        LumiSub is a powerful desktop application designed to provide real-time translated subtitles through advanced speech recognition and language translation APIs. By converting spoken language into translated text instantly, LumiSub breaks down language barriers and enhances communication for users worldwide.
+        LumiSub is a powerful desktop application built to deliver real-time translated subtitles using advanced speech recognition and translation APIs. It instantly converts spoken language into readable translated text, helping users communicate without barriers.
       </p>
 
       <p className="about-paragraph subtle-highlight">
-        Whether you are watching foreign-language movies, attending international meetings, or learning a new language, LumiSub ensures you never miss a word. Its seamless integration with your microphone captures speech accurately, while the translation engine supports multiple languages, making it versatile for global use.
+        Whether you're watching foreign-language films, participating in international meetings, or learning a new language, LumiSub ensures you stay connected. It uses your microphone to accurately detect speech and translates it into a wide range of languages.
       </p>
 
       <div className="features-section">
-        <h2 className="features-title">
-          Key Features 
-        </h2>
+        <h2 className="features-title">Key Features</h2>
         <ul className="features-list">
-          <li>Real-time speech-to-text transcription with high accuracy</li>
+          <li>Accurate real-time speech-to-text transcription</li>
           <li>Instant translation into your preferred language</li>
-          <li>Customizable subtitle appearance for better readability</li>
-          <li>Supports multiple languages including English 🇬🇧, French 🇫🇷, Italian 🇮🇹, Sinhala 🇱🇰, and more</li>
-          <li>User-friendly interface optimized for ease of use</li>
+          <li>Customizable subtitle design for better readability</li>
+          <li>Supports multiple languages including English, French, Italian, Sinhala, and more</li>
+          <li>Simplified and intuitive user interface</li>
         </ul>
       </div>
 
       <p className="about-paragraph subtle-highlight">
-        Our vision is to empower users by facilitating effortless communication across languages and cultures. LumiSub strives to make language differences a thing of the past by providing accessible, fast, and reliable translation subtitles.
+        Our vision is to make communication seamless across cultures. LumiSub aims to eliminate language boundaries by providing fast, accessible, and accurate subtitle translation for everyone.
       </p>
 
       <p className="about-conclusion">
-        Join thousands of users who trust LumiSub for their everyday communication and entertainment needs 🎉.
+        Discover how LumiSub is redefining accessibility and language understanding—experience the future of real-time translation today.
       </p>
     </div>
   );
